@@ -75,6 +75,16 @@ This dashboard enables:
 
 The dimensional modeling approach ensures scalability and adaptability for real-world business environments.
 
+---
+
+## 📂 Project File
+
+The complete Power BI project file is available in this repository:
+
+PowerBI_Sales_Analytics_Dashboard.pbix
+
+---
+
 ## 👤 Author
 
 Juan Segundo Gnarra  
