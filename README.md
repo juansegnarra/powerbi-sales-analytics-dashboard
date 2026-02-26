@@ -64,9 +64,18 @@ Developed as part of advanced BI training, applying real-world commercial analyt
 
 ---
 
+## 📌 Business Impact
+
+This dashboard enables:
+
+- Performance monitoring by territory and vendor
+- Identification of high and low performing products
+- Revenue tracking by payment method
+- Profitability evaluation over time
+
+The dimensional modeling approach ensures scalability and adaptability for real-world business environments.
+
 ## 👤 Author
 
 Juan Segundo Gnarra  
 Actuarial Science Student | BI & Data Analytics
-
-Enhance README with professional project structure
