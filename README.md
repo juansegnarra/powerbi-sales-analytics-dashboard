@@ -49,7 +49,11 @@ This modeling approach improves performance, scalability, and analytical flexibi
 
 ## 📊 Dashboard Preview
 
-*(Add dashboard screenshots here)*
+![Dashboard Main](dashboard_main.png)
+
+![Dashboard Overview](dashboard_overview.png)
+
+![Sales Analysis](dashboard_ventas.png)
 
 ---
 
